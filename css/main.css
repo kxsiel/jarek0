@@ -202,7 +202,7 @@ header {
     transition: all 0.3s ease-out;
   }
   .button:hover {
-    background: #06D85F;
+    background: #ffffff;
   }
   
   .overlay {
